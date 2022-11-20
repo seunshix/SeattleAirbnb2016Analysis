@@ -25,3 +25,6 @@ You will also need a software that can run a python notebook **.ipynb**
 
 ### Result
 Check out my Medium post for results and analytical findings: https://medium.com/@adexseun13/analysis-of-seattle-airbnb-2016-data-fba7bd9b3bb1
+
+## Acknowledgements
+This dataset was provided by Kaggle and can be downloade [here](https://www.kaggle.com/datasets/airbnb/seattle)
